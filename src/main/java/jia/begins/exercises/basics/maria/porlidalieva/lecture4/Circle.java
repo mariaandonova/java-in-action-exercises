@@ -1,7 +1,7 @@
 package jia.begins.exercises.basics.maria.porlidalieva.lecture4;
 
 public class Circle extends Shape {
-    private final double pi = 3.14;
+    private final double pi = Math.PI;
     private double radius;
 
 	public Circle(double radius){
